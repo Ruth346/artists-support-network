@@ -25,6 +25,8 @@ switch (window.location.pathname) {
   case "/digital":
     component = <Digital />
     break
+  default: 
+   break;
 }
 
   return (
