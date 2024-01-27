@@ -1,7 +1,7 @@
 export default function Navbar() {
   return <nav className="nav">
     <a href="/" className="site-title">
-        artists support networks
+        artists support network
     </a>
     <ul>
         <li className="home">
